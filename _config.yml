@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.6510639
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 1
-  lightness: 0.3744681
   brandStrength: 0.9319149
+  rhythmicContrast: 0.7007521
   brandColors:
     - '#07060C'
     - '#DFE1E0'
     - '#435390'
     - '#FF7E55'
     - '#FA8901'
-  rhythmicContrast: 0.7007521
+  lightness: 0.3744681
+typography_spectrum: 0.5085106
+layout_spectrum: 0.1765957
 name: Love Returns
