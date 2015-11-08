@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6510639
+color:
+  saturation: 1
+  lightness: 0.3744681
+  brandStrength: 0.9319149
+  brandColors:
+    - '#07060C'
+    - '#DFE1E0'
+    - '#435390'
+    - '#FF7E55'
+    - '#FA8901'
+  rhythmicContrast: 0.7007521
+name: Love Returns
