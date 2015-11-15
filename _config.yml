@@ -1,3 +1,7 @@
+name: Love Returns
+favicon: null
+layout_spectrum: 0.1765957
+typography_spectrum: 0.5166
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.9319149
-  rhythmicContrast: 0.7007521
   brandColors:
     - '#07060C'
     - '#DFE1E0'
     - '#435390'
     - '#FF7E55'
     - '#FA8901'
+  brandStrength: 0.9319149
   lightness: 0.3744681
-typography_spectrum: 0.5085106
-layout_spectrum: 0.1765957
-name: Love Returns
+  saturation: 1
+  rhythmicContrast: 0.7007521
+purpose: []
