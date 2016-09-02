@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Shop
-    url: love-returns.com
-    type: external
 favicon: null
 collections:
   - index:
